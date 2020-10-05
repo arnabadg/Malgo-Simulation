@@ -1,4 +1,4 @@
-#MALGO(Math and Algorithm) Simulation 
+#MALGO (Math and Algorithm) Simulation 
 It is a C project using C++'s graphics library IGraphics.
 
 ![Alt text](/IGraphics/title.bmp?raw=true "Title")
